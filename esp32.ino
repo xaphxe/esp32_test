@@ -14,5 +14,5 @@ void loop() {
 
   digitalWrite(LED1, LOW);   // LED1 끔
   digitalWrite(LED2, HIGH);  // LED2 켬
-  delay(800);
+  delay(1000);
 }
